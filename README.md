@@ -20,3 +20,9 @@ http://www.gcssloop.com/customview/matrix-3d-camera
 
 周星毅  18613844374   zxy13838821536
 
+angular           视频链接：https://pan.baidu.com/s/1ge37JkJ
+backbone          视频链接：https://pan.baidu.com/s/1i5khfCx
+Vue               视频链接：https://pan.baidu.com/s/1gfzenxp
+这部分不太全 我也没有办法，
+
+HTML，CSS，HTML5  基础视频：http://pan.baidu.com/s/1jI0ufKa
